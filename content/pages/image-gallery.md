@@ -1,0 +1,30 @@
+---
+content_type: page
+description: Photographs of the designs students prepared for the course.
+learning_resource_types: []
+ocw_type: CourseSection
+title: Image Gallery
+uid: ceff25a8-cad9-3666-406f-11675e80a02b
+---
+
+The three students in Design for the Theater: Scenery in the spring term of 2005 fed off each other's energies in exploring different media and production styles. As the two radically different approaches to the symbolist opera **Bluebeard's Castle** clearly show, they also established and confidently maintained their own styles as well.
+
+In a design course like this, there are no "right" or "wrong" answers to a project. The students are in competition with themselves rather than with their classmates. Accomplishment is measured by their growing daring in exploring a visual world in response to the text, and by their willingness to experiment with materials and styles. At some point early in term. I make my students aware of one of my favorite quotes concerning the arts, by the Mexican author Carlos Chavez: "I live through risk. Without risk, there is no art. You should always be on the edge of a cliff about to fall down and break your neck."
+
+All images courtesy of Professor William Fregosi. Used with permission. Student work by J. Hinel and J. Ornstein was retained from the Spring 2003 version of the course.[  
+](/ans7870/21m/21m.734/s05/imagegallery/12.html)
+{{< image-gallery id="ceff25a8-cad9-3666-406f-11675e80a02b_nanogallery2" baseUrl="/courses/21m-734-design-for-the-theater-scenery-spring-2005/" >}}
+{{< image-gallery-item href="2295bd4ddc9ab602eb3ec0f6b8756516_1.jpg" data-ngdesc="Design by Kenneth Roraback 06 for August Strindbergs THE FATHER. Model for a production to take place in Simmons Hall. Image courtesy of Professor William Fregosi." text="Design by Kenneth Roraback 06 for August Strindbergs THE FATHER. Model for a production to take place in Simmons Hall." >}}
+{{< image-gallery-item href="3ff539ed53725c2a047298ee430a424b_2.jpg" data-ngdesc="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board. Image courtesy of Professor William Fregosi." text="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board." >}}
+{{< image-gallery-item href="e3d9551e6dc18aa67ca7237b6a77b39d_3.jpg" data-ngdesc="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board. Image courtesy of Professor William Fregosi." text="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board." >}}
+{{< image-gallery-item href="c036e8237394f05ed34ce1d1cd3cf8c0_4.jpg" data-ngdesc="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board. Image courtesy of Professor William Fregosi." text="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board." >}}
+{{< image-gallery-item href="c8c34570c6095ca2b4df9b190572d0ae_5.jpg" data-ngdesc="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board. Image courtesy of Professor William Fregosi." text="Designs by Gabrielle (Brie) Frame 05 for Bela Bartoks opera BLUEBEARDS CASTLE, collage on board." >}}
+{{< image-gallery-item href="d41b794b533e9c12e2a9b489329d6b01_6.jpg" data-ngdesc="Design by Shambhavi Kadam 06 for Bela Bartoks opera BLUEBEARDS CASTLE. Chalk pastel on flocked paper. Image courtesy of Professor William Fregosi." text="Design by Shambhavi Kadam 06 for Bela Bartoks opera BLUEBEARDS CASTLE. Chalk pastel on flocked paper." >}}
+{{< image-gallery-item href="980ca463803e55fadb8568ed01aa94c7_7.jpg" data-ngdesc="Design by Shambhavi Kadam 06 for Bela Bartoks opera BLUEBEARDS CASTLE. Chalk pastel on flocked paper. Image courtesy of Professor William Fregosi." text="Design by Shambhavi Kadam 06 for Bela Bartoks opera BLUEBEARDS CASTLE. Chalk pastel on flocked paper." >}}
+{{< image-gallery-item href="5a474ab4e80232aa4e912d0d0b24f5ce_8.jpg" data-ngdesc="Design by Shambhavi Kadam 06 for Bela Bartoks opera BLUEBEARDS CASTLE. Chalk pastel on flocked paper. Image courtesy of Professor William Fregosi." text="Design by Shambhavi Kadam 06 for Bela Bartoks opera BLUEBEARDS CASTLE. Chalk pastel on flocked paper." >}}
+{{< image-gallery-item href="ce85f15556d97a0954664967985a2f50_9.jpg" data-ngdesc="Designs by Shambhavi Kadam 06 for Federico Garcia Lorcas BLOOD WEDDING. Chalk pastel on flocked paper. Image courtesy of Professor William Fregosi." text="Designs by Shambhavi Kadam 06 for Federico Garcia Lorcas BLOOD WEDDING. Chalk pastel on flocked paper." >}}
+{{< image-gallery-item href="7130ea803cdb08eecdc78b9c9ccfc0fb_10.jpg" data-ngdesc="Designs by Shambhavi Kadam 06 for Federico Garcia Lorcas BLOOD WEDDING. Chalk pastel on flocked paper. Image courtesy of Professor William Fregosi." text="Designs by Shambhavi Kadam 06 for Federico Garcia Lorcas BLOOD WEDDING. Chalk pastel on flocked paper." >}}
+{{< image-gallery-item href="3c2249ade2744c0f717ff54b34866d09_11.jpg" data-ngdesc="Designs by Shambhavi Kadam 06 for Federico Garcia Lorcas BLOOD WEDDING. Chalk pastel on flocked paper. Image courtesy of Professor William Fregosi." text="Designs by Shambhavi Kadam 06 for Federico Garcia Lorcas BLOOD WEDDING. Chalk pastel on flocked paper." >}}
+{{< image-gallery-item href="252d68b6fea132be178116d7e5fd2af1_12.jpg" data-ngdesc="Image from J. Hinels 21M.734 Tiresias project. Model. Image courtesy of Professor William Fregosi." text="Image from J. Hinels 21M.734 Tiresias project. Model." >}}
+{{< image-gallery-item href="a8604931bd46fac1d05316d04a2adffd_13.jpg" data-ngdesc="Image from J. Ornsteins 21M.734 Miracle Worker project. Chalk pastel on flocked paper. Image courtesy of Professor William Fregosi." text="Image from J. Ornsteins 21M.734 Miracle Worker project. Chalk pastel on flocked paper." >}}
+{{</ image-gallery >}}
